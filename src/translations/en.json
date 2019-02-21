@@ -86,7 +86,7 @@
             "errAlreadyLinked": "This ticket is already linked that work item."
         },
         "new": {
-            "title": "New Visual Studio Team Services Work Item",
+            "title": "New DevOps Work Item",
             "close": "Close",
             "accept": "Create work item",
             "help": "Fill this form to create a new Visual Studio Team Services work item and link it to this ticket.",
