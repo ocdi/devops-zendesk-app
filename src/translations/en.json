@@ -119,11 +119,11 @@
     },
     "notify": {
         "message":
-            "-- This notification was sent from Zendesk to all linked Visual Studio Team Services work items by {{name}}. --",
+            "-- This notification was sent from Zendesk to all linked DevOps work items by {{name}}. --",
         "vso": "Notification from DevOps work item {{workItemKey}}",
         "notification": "The linked DevOps work items have been notified",
         "workItemCreated": "Work item created in DevOps work item with id: %@",
-        "workItemLinked": "Ticket linked with VDevOps work item with id: %@",
+        "workItemLinked": "Ticket linked with DevOps work item with id: %@",
         "workItemUnlinked": "Ticket unlinked of DevOps work item with id: %@",
         "credentialsSaved": "Saved Successfully"
     },
