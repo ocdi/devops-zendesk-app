@@ -1,7 +1,8 @@
 {
   "author": {
     "name": "Microsoft & Cielo Costa Ltd",
-    "email": "support@cielocosta.com"
+    "email": "support@cielocosta.com",
+    "url": "https://github.com/ocdi/devops-zendesk-app"
   },
   "location": {
     "support": {
@@ -10,7 +11,7 @@
   },
   "defaultLocale": "en",
   "singleInstall": true,
-  "private": true,
+  "private": false,
   "frameworkVersion": "2.0",
   "version": "0.6.2",
   "parameters": [
