@@ -17,7 +17,8 @@
                 "helpText":
                     "Enter the text you want to allow to be used as a work item description template while creating new work items. If empty, no content will be suggested."
             }
-        }
+        },
+        "short_description": "Azure DevOps Zendesk integration", "installation_instructions":"Follow the instructions here https://github.com/ocdi/devops-zendesk-app", "long_description":"Unite your customer support and development teams. Quickly create or link work items to tickets, enable efficient two-way communication, and stop using email to check status."
     },
     "buttons": {
         "create": "New work item",
